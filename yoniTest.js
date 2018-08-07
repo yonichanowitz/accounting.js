@@ -1,6 +1,6 @@
 //list of methods
 accounting.settings();
-accounting.formatmoney();
+accounting.formatMoney();
 accounting.formatColumn();
 accounting.toFixed()
 accounting.unformat()
