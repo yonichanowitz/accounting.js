@@ -1,1 +1,14 @@
-notes of things to improve
+notes of things to improve or ask about
+
+/*how does declaring the `lib` object at the begining of the library function, allow it to have methods appended to it 
+in the form of `lib.settings = {...};` (assumption) why doesn't it need to be apended to either 1) a parameter of the main function, 
+or 2)be declared as a new function
+the formatMoney(); method is written as a variable and not simply appended as another object
+this could be because it is not meerly a list of parameters 
+   to be adjusted as a reference to how the rest of the methods actually interact with numbers
+while .formatMoney(); is actaully processing numbers anf returning output
+
+with formatMoney();
+how does declaring a variable, and immediately assigning it to a method on the lib{} object, and then immediately afterwards defining a function on it
+
+*/
