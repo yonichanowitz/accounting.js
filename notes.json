@@ -11,4 +11,5 @@ while .formatMoney(); is actaully processing numbers anf returning output
 with formatMoney();
 how does declaring a variable, and immediately assigning it to a method on the lib{} object, and then immediately afterwards defining a function on it
 
+create something to test columns
 */
