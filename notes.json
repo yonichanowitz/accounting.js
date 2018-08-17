@@ -12,4 +12,6 @@ with formatMoney();
 how does declaring a variable, and immediately assigning it to a method on the lib{} object, and then immediately afterwards defining a function on it
 
 create something to test columns
+
+test each settings option
 */
